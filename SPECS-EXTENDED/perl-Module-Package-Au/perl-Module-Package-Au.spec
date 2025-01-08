@@ -1,6 +1,6 @@
 Name:		perl-Module-Package-Au
 Version:	2
-Release:	18%{?dist}
+Release:	19%{?dist}
 Summary:	Reusable Module::Install bits
 License:	CC0
 Vendor:         Microsoft Corporation
